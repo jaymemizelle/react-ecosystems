@@ -10,3 +10,5 @@ const TodoListItem = ({ todo }) => (
     </div>
   </div>
 );
+
+export default TodoListItem;
