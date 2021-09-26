@@ -47,6 +47,6 @@ Simply click on the deployed link to view and use the application in your defaul
 
 ## Questions
 For additional questions please contact:
-* Jayme Mizelle
-* Email: jlm_developer@protonmail.com
-* https://github.com/jaymemizelle/
+* The Privacy Dev
+* Email: theprivacydev@protonmail.com
+* https://github.com/theprivacydev/
